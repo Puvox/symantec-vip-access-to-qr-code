@@ -1,1 +1,1 @@
-View online demo and instructions: <a href="https://puvox.software/tools/symantec-vip-qr-code-generator">https://puvox.software/tools/symantec-vip-qr-code-generator</a>
+View online demo and instructions: <a href="https://puvox.software/tools/symantec-vip-qr-code">https://puvox.software/tools/symantec-vip-qr-code</a>
