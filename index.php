@@ -65,7 +65,7 @@ if (!isset($_GET['action']))
 if ($_GET['action']=="load")
 {
 	?>
-	<html><head></head><body>
+	<html><head></head><body style="margin:0;">
 	<div>
 		<div style="background: url(https://i.imgur.com/GE9kHrL.jpg) no-repeat; background-position: center; width: 100%; height: 100%; opacity: 0.2; z-index: -111; position: absolute; background-size: contain;"></div>
 		<div style="text-align:center; height:100%;">
