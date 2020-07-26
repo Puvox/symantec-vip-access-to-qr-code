@@ -70,7 +70,7 @@ if ($_GET['action']=="load")
 		<div style="background: url(https://i.imgur.com/GE9kHrL.jpg) no-repeat; background-position: center; width: 100%; height: 100%; opacity: 0.15; z-index: -111; position: absolute; background-size: contain;"></div>
 		<div style="text-align:center; height:100%;">
 			<button style="top: 40%; position: relative; border: 5px solid green; border-radius: 15px; box-shadow: 0px 0px 15px black;  font-size: 1.6em; padding: 6px; cursor: pointer;" onclick="js_trigger()">Generate New Symantec VIP & QR-Code</button>
-			<script>function js_trigger(){ document.body.innerHTML='<img src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/ajax-loader.gif" width="150" />';  location.href = location.href.replace("=load","=show"); }</script>
+			<script>function js_trigger(){ document.body.innerHTML='<img src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/ajax-loader.gif" style="width:150px; margin: 0 auto; display: flex;" />';  location.href = location.href.replace("=load","=show"); }</script>
 		</div>
 	</div>
 	</body>
